@@ -4,7 +4,6 @@
 			"key": "tt",
 			"name": "老三",
 			"type": 3,
-			"jar": "/js/xiaosa/spider.jar",
 			"api": "/js/test/drpy2.min.js",
 			"ext": "/js/test/4k.js"
 		},
@@ -219,6 +218,12 @@
 		{
 			"key": "3",
 			"name": "== 3 =="
+		},
+		{
+			"key": "py_高清电影",
+			"name": "高清电影(T3)",
+			"type": 3,
+			"api": "./py/高清电影.py"
 		},
 		{
 			"key": "py_jianpian",
